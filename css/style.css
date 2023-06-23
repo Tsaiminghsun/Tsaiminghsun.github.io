@@ -70,12 +70,12 @@ p.lead{
 	position:relative;
 }
 #latest .innertext{
-	/*position:absolute;*/
+	
 	bottom:20px;
 	left:30px;
 }
 #latest .innertext span{
-	background: rgba(255,255,255,0.3);
+    background: rgba(255,255,255,0.3);
     padding: 5px 16px;
     border-radius: 30px;
 }
